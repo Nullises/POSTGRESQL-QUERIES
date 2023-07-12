@@ -1,0 +1,1 @@
+SELECT DISTINCT origin_city_name FROM performance WHERE origin_city_name LIKE 'Fort%'

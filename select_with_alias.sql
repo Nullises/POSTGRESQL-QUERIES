@@ -1,0 +1,1 @@
+SELECT mkt_carrier as airline, mkt_carrier_fl_num as flight, origin_city_name, dest_city_name from performance

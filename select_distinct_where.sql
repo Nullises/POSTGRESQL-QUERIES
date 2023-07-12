@@ -1,0 +1,1 @@
+SELECT DISTINCT fl_date, mkt_carrier as airline, mkt_carrier_fl_num as flight, origin, dest FROM performance WHERE dest = 'ORD' AND origin = 'BZN'
